@@ -10,4 +10,4 @@ addpath(caminhoGauss);
 
 
 
-converteTemp(10, true)
+converteTemp(10, false)
